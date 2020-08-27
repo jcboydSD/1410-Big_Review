@@ -1,0 +1,14 @@
+/Users/jboyd/Tresors/Files/Education/WSU/Courses-InProgress/CS1410/Module-1/big_review/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jboyd/Tresors/Files/Education/WSU/Courses-InProgress/CS1410/Module-1/big_review/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jboyd/Tresors/Files/Education/WSU/Courses-InProgress/CS1410/Module-1/big_review/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/Users/jboyd/Tresors/Files/Education/WSU/Courses-InProgress/CS1410/Module-1/big_review/cmake-build-debug/src/CMakeFiles/while_loop.dir
+/Users/jboyd/Tresors/Files/Education/WSU/Courses-InProgress/CS1410/Module-1/big_review/cmake-build-debug/src/CMakeFiles/for_loops.dir
+/Users/jboyd/Tresors/Files/Education/WSU/Courses-InProgress/CS1410/Module-1/big_review/cmake-build-debug/src/CMakeFiles/switch.dir
+/Users/jboyd/Tresors/Files/Education/WSU/Courses-InProgress/CS1410/Module-1/big_review/cmake-build-debug/src/CMakeFiles/conditional.dir
+/Users/jboyd/Tresors/Files/Education/WSU/Courses-InProgress/CS1410/Module-1/big_review/cmake-build-debug/src/CMakeFiles/scope.dir
+/Users/jboyd/Tresors/Files/Education/WSU/Courses-InProgress/CS1410/Module-1/big_review/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/Users/jboyd/Tresors/Files/Education/WSU/Courses-InProgress/CS1410/Module-1/big_review/cmake-build-debug/src/CMakeFiles/pointers_references.dir
+/Users/jboyd/Tresors/Files/Education/WSU/Courses-InProgress/CS1410/Module-1/big_review/cmake-build-debug/src/CMakeFiles/specs.dir
+/Users/jboyd/Tresors/Files/Education/WSU/Courses-InProgress/CS1410/Module-1/big_review/cmake-build-debug/src/CMakeFiles/sphere.dir
+/Users/jboyd/Tresors/Files/Education/WSU/Courses-InProgress/CS1410/Module-1/big_review/cmake-build-debug/src/CMakeFiles/variables.dir
+/Users/jboyd/Tresors/Files/Education/WSU/Courses-InProgress/CS1410/Module-1/big_review/cmake-build-debug/src/CMakeFiles/main.dir
