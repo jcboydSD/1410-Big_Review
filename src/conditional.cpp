@@ -15,6 +15,9 @@ using namespace std;
 int main()
 {
     int age = 123;
+    // Take user input use: cin
+    cout << "Enter your age: ";
+    cin >> age;
 
     if(age > 12)
     {
